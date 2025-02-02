@@ -1,11 +1,13 @@
-import React from "react";
-import RegistrationForm from "../components/RegistrationForm";
-const Home = () => {
+// pages/index.js
+import RegistrationForm from '../components/RegistrationForm';
+
+const HomePage = () => {
   return (
     <div>
+      <h1>Registration</h1>
       <RegistrationForm />
     </div>
   );
 };
 
-export default Home;
+export default HomePage;

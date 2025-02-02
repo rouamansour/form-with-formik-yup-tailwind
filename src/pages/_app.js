@@ -1,7 +1,7 @@
-import '../styles/globals.css' // Importez le fichier CSS global
+import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} /> // Rendu du composant de la page
+  return <Component {...pageProps} />;
 }
 
-export default MyApp
+export default MyApp;
