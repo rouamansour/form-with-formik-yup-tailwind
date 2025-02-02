@@ -1,4 +1,3 @@
-// pages/index.js
 import RegistrationForm from '../components/RegistrationForm';
 
 const HomePage = () => {
